@@ -12,7 +12,7 @@ I. HOW TO RUN THE MATLAB SCRIPTS
 4d) For similarity comparisons and various other subplots, refer to =4=additional_analyses
 
 II. PYTHON SCRIPTS
-For the script corresponding to Supplementary Text S1, refer to "Supplementary_Text_S1_Enzyme_Assay_Simulations.ipynb". Here, we validated our fitting model across different mechanisms by simulating enzymatic progress curves for (i) uni-molecular reversible Haldane kinetics, (ii) irreversible kinetics with “idealized” substrate-binding mechanism, and (iii) “general” irreversible bi-molecular kinetics. Then, we fitted functions based on Michaelis-Menten, the corresponding analytical solutions, and the analytical solution used throughput the manuscript based on "idealized" binding.
+For the script corresponding to Supplementary Text S1, refer to "=S1=Enzyme_Assay_Simulations.ipynb". Here, we validated our fitting model across different mechanisms by simulating enzymatic progress curves for (i) uni-molecular reversible Haldane kinetics, (ii) irreversible kinetics with “idealized” substrate-binding mechanism, and (iii) “general” irreversible bi-molecular kinetics. Then, we fitted functions based on Michaelis-Menten, the corresponding analytical solutions, and the analytical solution used throughput the manuscript based on "idealized" binding.
 
 III. DATA AVAILABILITY
 Note that this script starts from MS data after preprocessing through in-house software, which includes peak picking, annotation and quantification of all measured ions. Raw mass spectrometry files are deposited in the MassIVE depository under MSV000096497.
